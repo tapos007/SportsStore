@@ -39,7 +39,7 @@
     "tag": "v4.0.0-alpha.6",
     "commit": "65ffb1c3b6e94440812a2e228cb8e8be512652ec"
   },
-  "_source": "https://github.com/twbs/bootstrap.git",
-  "_target": "4.0.0-alpha.6",
-  "_originalSource": "bootstrap"
+  "_source": "https://github.com/twitter/bootstrap.git",
+  "_target": "v4.0.0-alpha.6",
+  "_originalSource": "boot"
 }
